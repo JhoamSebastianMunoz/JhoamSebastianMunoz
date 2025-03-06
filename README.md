@@ -12,9 +12,7 @@ Soy un **Analista y Desarrollador de Software**, apasionado por la creación de 
 
 ## 🛠️ Tecnologías y Herramientas  
 
-### 🚀 Lenguajes de Programación  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)   
+### 🚀 Lenguajes de Programación:  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)   
 
 ### 🎨 Frontend  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  
