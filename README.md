@@ -29,20 +29,15 @@ Soy un **Desarrollador Full Stack** con un enfoque sólido en la construcción d
 
 ## 📂 Proyectos Destacados
 
-### 🌾 [Tremendo Territorio](https://github.com/JhoamSebastianMunoz) (Mayo 2025 - Actualidad)
+### 🌾 [Tremendo Territorio](https://github.com/JhoamSebastianMunoz) (Mayo 2025 - Enero 2026)
 Plataforma orientada a la visibilización de agricultores colombianos.
 - **Tech Stack:** React, Vite, TailwindCSS, TypeScript, Node.js.
 - **Logro:** Implementación de componentes reutilizables y consumo eficiente de APIs para manejo de estados.
 
-### 📦 [TATSOFT](https://github.com/JhoamSebastianMunoz)
+### 📦 [TATSOFT](https://github.com/JhoamSebastianMunoz (Diciembre 2023 - Abril 2025)
 Aplicativo web para la gestión de preventas en distribuidoras.
 - **Tech Stack:** React, Node.js, MySQL, Azure.
 - **Logro:** Integración de frontend con arquitectura de microservicios y despliegue completo en la nube.
-
----
-
-## 📈 Estadísticas de GitHub
-![Jhoam Sebastián's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhoamSebastianMunoz&show_icons=true&theme=radical)
 
 ---
 
@@ -50,7 +45,7 @@ Aplicativo web para la gestión de preventas en distribuidoras.
 
 📍 **Ubicación:** Montenegro, Quindío, Colombia 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jhoamsebastian68@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhoam-sebastian-muñoz-betancourt)
+[![Gmail](jhoamsebastian68@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhoam-sebastian-muñoz-betancourt)
 
 ---
 *“Enfocado en crear código limpio que solucione problemas reales.”*
