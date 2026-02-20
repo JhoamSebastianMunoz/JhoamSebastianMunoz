@@ -1,13 +1,13 @@
 # 👋 ¡Hola! Soy Jhoam Sebastián Muñoz Betancourt 👨‍💻
 
 ## 🚀 Acerca de mí
-[cite_start]Soy un **Desarrollador Frontend Junior** con un enfoque sólido en la construcción de aplicaciones web modernas, escalables y eficientes. [cite_start]Mi experiencia combina el desarrollo de interfaces de usuario de alta calidad con bases sólidas en lógica de servidor[cite: 5, 6].
+Soy un **Desarrollador Full Stack** con un enfoque sólido en la construcción de aplicaciones web modernas, escalables y eficientes. Mi experiencia combina el desarrollo de interfaces de usuario de alta calidad con bases sólidas en lógica de servidor.
 
-- [cite_start]🎓 **Tecnólogo en Análisis y Desarrollo de Software** por el SENA[cite: 26].
-- [cite_start]💻 Especializado en el ecosistema de **React** y **Vite**[cite: 4, 8].
-- [cite_start]🏗️ Experiencia en proyectos reales de alcance productivo integrando **APIs REST** y **microservicios**[cite: 5, 21].
-- [cite_start]🌱 Actualmente profundizando en **Next.js** y **arquitecturas escalables**[cite: 29].
-- [cite_start]📌 Comprometido con el código limpio, las buenas prácticas y metodologías ágiles (**Scrum**)[cite: 7, 11].
+- 🎓 **Tecnólogo en Análisis y Desarrollo de Software** por el SENA.
+- 💻 Especializado en el ecosistema de **React** + **Vite**, **Node.js**, **Postgresql**, **MySQL**.
+- 🏗️ Experiencia en proyectos reales de alcance productivo integrando **APIs REST** y **microservicios**.
+- 🌱 Actualmente profundizando en **Next.js** y **arquitecturas escalables**.
+- 📌 Comprometido con el código limpio, las buenas prácticas y metodologías ágiles (**Scrum**).
 
 ---
 
@@ -30,14 +30,14 @@
 ## 📂 Proyectos Destacados
 
 ### 🌾 [Tremendo Territorio](https://github.com/JhoamSebastianMunoz) (Mayo 2025 - Actualidad)
-[cite_start]Plataforma orientada a la visibilización de agricultores colombianos.
-- [cite_start]**Tech Stack:** React, Vite, TailwindCSS, TypeScript, Node.js[cite: 17].
-- [cite_start]**Logro:** Implementación de componentes reutilizables y consumo eficiente de APIs para manejo de estados[cite: 14, 15].
+Plataforma orientada a la visibilización de agricultores colombianos.
+- **Tech Stack:** React, Vite, TailwindCSS, TypeScript, Node.js.
+- **Logro:** Implementación de componentes reutilizables y consumo eficiente de APIs para manejo de estados.
 
 ### 📦 [TATSOFT](https://github.com/JhoamSebastianMunoz)
-[cite_start]Aplicativo web para la gestión de preventas en distribuidoras[cite: 18].
-- [cite_start]**Tech Stack:** React, Node.js, MySQL, Azure[cite: 24].
-- [cite_start]**Logro:** Integración de frontend con arquitectura de microservicios y despliegue completo en la nube[cite: 21, 23].
+Aplicativo web para la gestión de preventas en distribuidoras.
+- **Tech Stack:** React, Node.js, MySQL, Azure.
+- **Logro:** Integración de frontend con arquitectura de microservicios y despliegue completo en la nube.
 
 ---
 
@@ -48,9 +48,9 @@
 
 ## 📫 Contáctame
 
-[cite_start]📍 **Ubicación:** Montenegro, Quindío, Colombia 
+📍 **Ubicación:** Montenegro, Quindío, Colombia 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jhoamsebastian68@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhoam-sebastian-muñoz-betancourt)
 
 ---
-[cite_start]*“Enfocado en crear código limpio que solucione problemas reales.”* [cite: 7]
+*“Enfocado en crear código limpio que solucione problemas reales.”*
