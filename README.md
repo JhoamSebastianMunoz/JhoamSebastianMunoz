@@ -1,45 +1,112 @@
-# 👋 ¡Hola! Soy Jhoam Sebastián Muñoz Betancourt 👨‍💻
+# 👋 Hola, soy Jhoam Sebastián Muñoz
 
-## 🚀 Acerca de mí
-Soy un **Desarrollador Full Stack** con un enfoque sólido en la construcción de aplicaciones web modernas, escalables y eficientes. Mi experiencia combina el desarrollo de interfaces de usuario de alta calidad con bases sólidas en lógica de servidor.
+💻 Desarrollador Frontend con enfoque Full Stack  
+📍 Montenegro, Quindío – Colombia  
 
-- 🎓 **Tecnólogo en Análisis y Desarrollo de Software** por el SENA.
-- 💻 Especializado en el ecosistema de **React** + **Vite**, **Node.js**, **Postgresql**, **MySQL**.
-- 🏗️ Experiencia en proyectos reales de alcance productivo integrando **APIs REST** y **microservicios**.
-- 🌱 Actualmente profundizando en **Next.js** y **arquitecturas escalables**.
-- 📌 Comprometido con el código limpio, las buenas prácticas y metodologías ágiles (**Scrum**).
+Construyo aplicaciones web modernas, escalables y mantenibles utilizando el ecosistema React + TypeScript, integrando servicios backend con Node.js y bases de datos relacionales.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🚀 Sobre mí
 
-### 🚀 Lenguajes:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+Soy Tecnólogo en Análisis y Desarrollo de Software (SENA) con experiencia en proyectos productivos desplegados en la nube.
 
-### 🎨 Frontend:
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+Me especializo en:
 
-### ⚙️ Backend & DB:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- Desarrollo de interfaces escalables con **React + Vite**
+- Arquitectura modular y componentes reutilizables
+- Integración y consumo de **APIs REST**
+- Backend con **Node.js + Express**
+- Modelado y consultas SQL en **PostgreSQL y MySQL**
+- Despliegue en **Azure y Vercel**
 
-### ☁️ Herramientas & Cloud:
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+Me interesa construir productos reales que resuelvan problemas concretos, especialmente en contextos sociales y productivos.
+
+Actualmente profundizando en:
+
+- ⚡ Next.js (SSR, SSG, App Router)
+- 🏗️ Arquitectura limpia aplicada a frontend
+- 📦 Organización por dominios en proyectos React
+- 🧠 Buenas prácticas, escalabilidad y rendimiento
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Lenguajes
+- JavaScript (ES6+)
+- TypeScript
+- SQL
+
+### Frontend
+- React
+- Next.js
+- Vite
+- TailwindCSS
+- HTML5
+- CSS3
+
+### Backend
+- Node.js
+- Express
+- APIs REST
+- Swagger (documentación)
+
+### Bases de Datos
+- PostgreSQL
+- MySQL
+
+### Cloud & Herramientas
+- Git / GitHub (GitFlow)
+- Azure
+- Vercel
+- Railway
+- Scrum
 
 ---
 
 ## 📂 Proyectos Destacados
 
-### 🌾 [Tremendo Territorio](https://github.com/JhoamSebastianMunoz) (Mayo 2025 - Enero 2026)
-Plataforma orientada a la visibilización de agricultores colombianos.
-- **Tech Stack:** React, Vite, TailwindCSS, TypeScript, Node.js.
-- **Logro:** Implementación de componentes reutilizables y consumo eficiente de APIs para manejo de estados.
+### 🌾 Tremendo Territorio (Mayo 2025 – Enero 2026)
+Plataforma web orientada a la visibilización digital de agricultores colombianos.
 
-### 📦 [TATSOFT](https://github.com/JhoamSebastianMunoz) (Diciembre 2023 - Abril 2025)
-Aplicativo web para la gestión de preventas en distribuidoras.
-- **Tech Stack:** React, Node.js, MySQL, Azure.
-- **Logro:** Integración de frontend con arquitectura de microservicios y despliegue completo en la nube.
+**Responsabilidades técnicas:**
+- Desarrollo del frontend con React + Vite + TypeScript
+- Implementación de componentes reutilizables y diseño responsive con TailwindCSS
+- Consumo e integración de APIs REST
+- Organización modular del proyecto
+- Despliegue frontend en Vercel y backend en Railway
 
 ---
+
+### 📦 TATSOFT (Diciembre 2023 - Abril 2025)
+Aplicativo web para la gestión de preventas en distribuidoras tienda a tienda.
+
+**Responsabilidades técnicas:**
+- Construcción de frontend con React y Vite
+- Desarrollo y consumo de APIs REST
+- Integración con backend basado en microservicios
+- Participación en modelado de base de datos MySQL
+- Despliegue completo en Azure
+
+---
+
+## 📚 Formación
+
+🎓 Tecnólogo en Análisis y Desarrollo de Software – SENA (2023–2025)  
+🎓 Tecnólogo en Sistemas de Gestión Integrada – SENA (2015–2018)
+
+---
+
+## 📫 Contacto
+
+📧 jhoamsebastian68@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/jhoam-sebastian-muñoz-betancourt  
+🐙 GitHub: github.com/JhoamSebastianMunoz  
+
+---
+
+> Enfocado en construir software limpio, escalable y alineado con problemas reales.
 
 ## 📫 Contáctame
 
