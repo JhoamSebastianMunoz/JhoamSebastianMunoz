@@ -107,12 +107,3 @@ Aplicativo web para la gestión de preventas en distribuidoras tienda a tienda.
 ---
 
 > Enfocado en construir software limpio, escalable y alineado con problemas reales.
-
-## 📫 Contáctame
-
-📍 **Ubicación:** Montenegro, Quindío, Colombia 
-
-**Gmail: **(jhoamsebastian68@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhoam-sebastian-muñoz-betancourt)
-
----
-*“Enfocado en crear código limpio que solucione problemas reales.”*
