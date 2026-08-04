@@ -73,18 +73,6 @@ Desarrollador **Full Stack** con  experiencia diseñando y desplegando aplicacio
 
 ---
 
-## ✨ Analítica de Datos
-
-<div align="center">
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhoamSebastianMunoz&layout=compact&theme=transparent&hide_border=true&card_width=400)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JhoamSebastianMunoz&show_icons=true&hide_border=true&theme=transparent)
-
-</div>
-
----
-
 ## 🎓 Formación
 
 - 🎓 **Tecnólogo en Análisis y Desarrollo de Software** — SENA, Armenia (2023–2025)
